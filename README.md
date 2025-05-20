@@ -33,7 +33,7 @@ sudo apt install yt-dlp  # Linux
 ## 🧪 Running the App
 
 ```bash
-python youtube_downloader_gui.py
+python yt.py
 ```
 
 ## 📁 Project Structure
