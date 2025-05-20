@@ -40,7 +40,7 @@ python yt.py
 
 ```
 .
-├── youtube_downloader_gui.py
+├── yt.py
 ├── README.md
 ├── requirements.txt
 └── [downloads go to selected directory]
